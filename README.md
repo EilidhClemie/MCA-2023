@@ -1,9 +1,14 @@
 # MCA
 ## Week 1
 ### Task 2
-Dataset Theme: Political and Historical Irish Music
+The central theme for my dataset is the music of the Beatles.
 ### Task 3
 *Based on your own experience, what do you think are some challenges to working with music and music-related data (perhaps related to access, curation, distribution, etc.)?*
+
+*Access: In terms of access, challenges arise around 
+*Curation:
+*Distribution:
+
 
 * Musical scores are often physical objects which need to be collected, preserved, and digitised in order for access, curation and distribution online. This comes with numerous challenges in terms of management of a historical or valuable object.
 * The nature of musical scores means that an understanding of how that specific piece translates and is understood is often varied.
