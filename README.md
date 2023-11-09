@@ -2,7 +2,7 @@
 <table id="menu">
     <tr>
       <td id="first"><a href="https://github.com/EilidhClemie/MCA-2023">WEEK 1</a></td>
-      <td><a href="https://github.com/EilidhClemie/MCA-2023/LabTasks/week2/week2.html">WEEK 2</a></td>
+      <td><a href="https://github.com/EilidhClemie/MCA-2023/blob/master/Lab%20Work/Week%202/Answers">WEEK 2</a></td>
     </tr>
 </table>
 
