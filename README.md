@@ -1,10 +1,4 @@
-<h1><a href="https://github.com/EilidhClemie/MCA-2023">MCA-2023</a></h1>
-<table id="menu">
-    <tr>
-      <td id="first"><a href="https://github.com/EilidhClemie/MCA-2023">WEEK 1</a></td>
-      <td><a href="https://github.com/EilidhClemie/MCA-2023/blob/master/Lab%20Work/Week%202/week2.html">WEEK 2</a></td>
-    </tr>
-</table>
+[Week 2](Week2.md)
 
 # MCA
 ## Week 1
