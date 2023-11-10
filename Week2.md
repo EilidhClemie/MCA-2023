@@ -2,7 +2,6 @@
 ## Week 2
 Within my wider theme of The Beatles, I chose to transcribe the notated score for the bands 1970 song, Let It Be within Musescore. Below I have attached an image of the first section of the score which was transcribed and subsequently corrected. Further, I the full transcribed score is available here.
 
-Discuss the aspects of your score that were not transcribed properly by the OMR engine, referencing your group discussions on Tuesday as well.  
-Apparent from observations of the transcription is evidence of the capacities and weaknesses of OMR technology.
+Through the process of transcription and correction of the score, evidenced were some of the capacities and weaknesses of OMR technology. As a group, we utilised Musescore’s software to transcribe various pieces composed by Wolfgang Amadeus Mozart which demonstrated the challenges of machine recognition of notation, which is historical in nature, with Musescore producing very poor replications of the original composition. Comparative to this, my own transcription of relatively modern score, while improving, did still incorporate several of the same faults. This is evidenced in the attached full Musescore file. From playback of the music, the primary disruptor was its failure to implement the correct time stamps for each bar, resulting in incorrect organisational patterns of the beats. Furthermore, the software was inconsistent in its recognition of notes, replicating certain bars very strongly, and some very poorly. Lastly, accents and beams on or between notes were often omitted, disrupting the overall sound replication of the piece.
 
 ![Fully Edited - Let It Be Images-1](https://github.com/EilidhClemie/MCA-2023/assets/145780245/2e633c3c-0233-4fc1-8d28-f8555cc0b51e)
