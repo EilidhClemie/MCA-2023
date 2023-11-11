@@ -4,4 +4,4 @@ As a group, our pieces were all relatively modern, so much of our metadata share
 
 <img width="666" alt="image" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/3b319eae-df50-4147-b014-c9e2e9340cfc">
 
-My updated MEI file is avaialble here.
+My updated MEI file is avaialble [here.](Update MEI.mei)
