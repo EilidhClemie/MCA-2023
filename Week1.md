@@ -1,4 +1,4 @@
-|[ WEEK 1 ](Week1.md)|[ WEEK 2 ](Week2.md)|[ WEEK 3 ](Week3.md)|[ WEEK 4 ](Week4.md)|[ WEEK 5 ](Week5.md)|[ WEEK 6 ](Week6.md)|[ WEEK 8 ](Week8.md)|[ WEEK 9 ](Week9.md)|[ WEEK 10 ](Week10.md)|
+|[ WEEK 1 ](Week1.md)|[ WEEK 2 ](Week2.md)|[ WEEK 3 ](Week3.md)|[ WEEK 4 ](Week4.md)|[ WEEK 5 ](Week5.md)|[ WEEK 7 ](Week7.md)|[ WEEK 8 ](Week8.md)|[ WEEK 9 ](Week9.md)|[ WEEK 10 ](Week10.md)|
 ## Week 1: Basics of Music Data
 ### Task 2
 The central theme within my dataset is the music of The Beatles. The Beatles can be categorised as an English popular rock band which hold a large musical and cultural significance. The core contributing performers include John Lennon, Paul McCartney, George Harrison, and Ringo Starr. Their catalogue primarily was produced and released within between the years of 1960 to 1970. The core of their discography is their 12 studio albums, although other manifestations of their music have been released through singles, EPs, compilations, and live albums.
