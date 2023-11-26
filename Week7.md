@@ -7,4 +7,9 @@ For this week's activity, I ensured that my the MEI file of my notated score wit
 
 * Specific licensing data
 
+Discussion of why I have made the choices I made in regard to metadata.
 I ensured that this metadata conformed to the MEI guidelines.
+
+Here is a rendering of my revised MEI metadata:
+
+Discussion of how I would format this metadata to make it look nicer:
