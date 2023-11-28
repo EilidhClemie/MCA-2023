@@ -5,14 +5,14 @@ For the first part of this week's task I have found and described three audio tr
 
 Metadata | Let It Be (Remastered 2009) | Help! (Remastered 2015) | Come Together (Remastered 2009)
 -----|------|------|------
-Title | a | b | c | d 
-Artist | a | b | c | d 
-Composer | a | b | c | d 
-Copyright info (if any) | a | b | c | d 
-Genre | a | b | c | d 
-Source | a | b | c | d 
-File/audio format | a | b | c | d 
-Number of channels | a | b | c | d 
-Sample rate | a | b | c | d 
-Bits per second | a | b | c | d 
-Duration | a | b | c | d 
+Title | Let It Be (Remastered 2009) | Help! (Remastered 2015) | Come Together (Remastered 2009)
+Artist | a | b | c 
+Composer | a | b | c 
+Copyright info (if any) | a | b | c 
+Genre | a | b | c 
+Source | a | b | c 
+File/audio format | a | b | c 
+Number of channels | a | b | c 
+Sample rate | a | b | c 
+Bits per second | a | b | c 
+Duration | a | b | c
