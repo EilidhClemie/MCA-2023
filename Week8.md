@@ -46,3 +46,7 @@ Should be noted:
 
 **Spectrogram**
 <img width="3300" alt="Help!-Spectrogram" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/1eaee16a-b714-4ba1-9e05-405e3daae917">
+
+### Analysis - The advantages of a time-frequency based analysis over a waveform based analysis
+
+The difference in advantages between these methods comes down to the information they represent. A waveform primarily communicates frequency and strength of the sound wave, however, a spectrogram creates a more complex visualisation of the variations within a songs frequency over time and the intensity of the sound. For example, when analysing 
