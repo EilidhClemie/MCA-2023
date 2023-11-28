@@ -6,7 +6,7 @@ For the first part of this week's task I have found and described three audio tr
 Metadata | Let It Be (Remastered 2009) | Help! (Remastered 2015) | Come Together (Remastered 2009)
 -----|------|------|------
 Title | Let It Be (Remastered 2009) | Help! (Remastered 2015) | Come Together (Remastered 2009)
-Artist | a | b | c 
+Artist | The Beatles | The Beatles | The Beatles
 Composer | a | b | c 
 Copyright info (if any) | a | b | c 
 Genre | a | b | c 
