@@ -10,9 +10,9 @@ Artist | The Beatles | The Beatles | The Beatles
 Composer | John Lennon, Paul McCartney| b | c 
 Copyright info (if any) | ℗ 2009 Calderstone Productions Limited | b | c 
 Genre | Rock | b | c 
-Source |  | b | c 
-File/audio format | a | b | c 
-Number of channels | a | b | c 
+Source | YouTube | YouTube | YouTube 
+File/audio format | mp4 | mp4 | mp4 
+Number of channels | 2 stereo | 2 stereo | 2 stereo 
 Sample rate | a | b | c 
 Bits per second | a | b | c 
 Duration | a | b | c
