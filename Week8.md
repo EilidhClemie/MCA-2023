@@ -21,4 +21,6 @@ Should be noted:
 * Calderstone Productions Limited  is a division of Universal Music Group.
 * Bit Rate is not applicable for WAV file.
 
-Here is my analysis of my three chosen tracks through my utilisation of SonicVisualizer
+Here is my analysis of my three chosen tracks through my utilisation of SonicVisualizer:
+
+
