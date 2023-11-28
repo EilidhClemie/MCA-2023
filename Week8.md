@@ -49,7 +49,6 @@ Should be noted:
 
 ### Analysis - The advantages of a time-frequency based analysis over a waveform based analysis
 
-The difference in advantages between these methods comes down to the information they represent. A waveform primarily communicates frequency and strength of the sound wave, however, a spectrogram creates a more complex visualisation of the variations within a songs frequency over time and the intensity of the sound. For example, when analysing The Beatles' song. *Come Together*
+The difference in advantages between these methods comes down to the information they represent. A waveform primarily communicates frequency and strength of the sound wave, however, a spectrogram creates a more complex visualisation of the variations within a songs frequency over time and the intensity of the sound. For example, when analysing The Beatles' song. *Come Together*, the spectrogram allows someone to visually  determine the range of frequencies within the signal of the track. For example, using a small section from the beginning of the this track we can determine at the one moment the varying frequencies of the song's instrumentation, such as a visualisation of vocal frequencies (the small patches within the centre) or the lower frequencies of the bass and drums (intense large patches which appear within the bottom half. This allows us to visualise a the song more intricately.
 
 <img width="367" alt="image" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/897f26e9-1701-4283-a8b5-d266aaf955b1">
-
