@@ -8,6 +8,6 @@ Genre | Licensing
 < genre >|< useRestrict >
 This information was already encorporated within the metadata completed within Week 5. From research into pre-existing genre classifications of official releases of audio tracks of The Beatle's, *Let It Be*, I selected **Rock** as a genre | Due to the nature of this metadata applying specifically to an encoding of a notated score of this piece of music, the most appropriate classification would be the **Creative Commons CC0 1.0** Universal, due to my encoding of the intellectual property of another artist holding their own copyright licensing over the original piece, under fair use. I therefore would not personally assign any legal ruling over this piece.
 
-The rendering of my revised MEI metadata is available here.
+The rendering of my revised MEI metadata is available at: https://github.com/EilidhClemie/MCA-2023/blob/master/VerovioWeek7.html
 
 Discussion of how I would format this metadata to make it look nicer:
