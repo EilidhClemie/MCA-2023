@@ -8,12 +8,12 @@ Metadata | Let It Be (Remastered 2009) | Help! (Remastered 2015) | Come Together
 Title | Let It Be (Remastered 2009) | Help! (Remastered 2015) | Come Together (Remastered 2009)
 Artist | The Beatles | The Beatles | The Beatles
 Composer | John Lennon, Paul McCartney| John Lennon, Paul McCartney | John Lennon, Paul McCartney 
-Copyright info (if any) | ℗ 2009 Calderstone Productions Limited | ℗ 2009 Calderstone Productions Limited | ℗ 2009 Calderstone Productions Limited 
+Copyright info (if any) | ℗ 2009 Calderstone Productions Limited | ℗ 2015 Calderstone Productions Limited | ℗ 2009 Calderstone Productions Limited 
 Genre | Rock | Rock | Rock 
 Source | YouTube | YouTube | YouTube 
 File/audio format | WAV | WAV | WAV 
 Number of channels | 2 stereo | 2 stereo | 2 stereo 
-Sample rate | 48kHZ | b | c 
+Sample rate | 48kHZ | 48kHz | 48kHz 
 Bits per second | N/A | N/A | N/A 
 Duration | 04:03 | 02:19 | 04:19
 
