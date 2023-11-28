@@ -11,10 +11,13 @@ Composer | John Lennon, Paul McCartney| b | c
 Copyright info (if any) | ℗ 2009 Calderstone Productions Limited | b | c 
 Genre | Rock | b | c 
 Source | YouTube | YouTube | YouTube 
-File/audio format | mp4 | mp4 | mp4 
+File/audio format | WAV | WAV | WAV 
 Number of channels | 2 stereo | 2 stereo | 2 stereo 
-Sample rate | a | b | c 
-Bits per second | a | b | c 
-Duration | a | b | c
+Sample rate | 48kHZ | b | c 
+Bits per second | N/A | N/A | N/A 
+Duration | 04:03 | 02:19 | 04:19
 
-Should be noted that Calderstone Productions Limited  is a division of Universal Music Group
+Should be noted:
+* Calderstone Productions Limited  is a division of Universal Music Group.
+* Bit Rate is not applicable for WAV file.
+
