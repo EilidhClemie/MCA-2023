@@ -7,7 +7,7 @@ Metadata | Let It Be (Remastered 2009) | Help! (Remastered 2015) | Come Together
 -----|------|------|------
 Title | Let It Be (Remastered 2009) | Help! (Remastered 2015) | Come Together (Remastered 2009)
 Artist | The Beatles | The Beatles | The Beatles
-Composer | a | b | c 
+Composer |  | b | c 
 Copyright info (if any) | a | b | c 
 Genre | a | b | c 
 Source | a | b | c 
