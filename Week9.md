@@ -36,3 +36,5 @@ Below I have extracted spectrograms, Mel-frequency Cepstral Coefficients, and Ch
 ### Chromagram
 <img width="6132" alt="Come Together - Chromagram" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/2b5e61e0-fe54-436e-acfa-253ac1864b2a">
 
+Below is the visualisations of chroma histograms for each of the tracks:
+
