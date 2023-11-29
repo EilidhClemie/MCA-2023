@@ -28,7 +28,7 @@ Below I have extracted spectrograms, Mel-frequency Cepstral Coefficients, and Ch
 ### *Come Together*
 
 ### Spectrogram
-
+<img width="5000" alt="Come Together - Spectrogram" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/f58c2fb5-4925-497e-8315-8c5347f5e12c">
 
 ### Mel-Frequency Cepstral Coefficients
 <img width="6132" alt="Come Together - MFCC" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/f67c9487-1562-4586-bdcf-f48d452e1daf">
