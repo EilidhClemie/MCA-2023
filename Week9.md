@@ -39,3 +39,16 @@ Below I have extracted spectrograms, Mel-frequency Cepstral Coefficients, and Ch
 
 Below is the visualisations of chroma histograms for each of the tracks:
 
+### *Let It Be
+![LIB_CHROMA](https://github.com/EilidhClemie/MCA-2023/assets/145780245/0947e1ee-6890-4c77-b759-fb25ad4ae06c)
+
+
+### *Help!*
+![HELP!_CHROMA](https://github.com/EilidhClemie/MCA-2023/assets/145780245/3114a34a-9b42-4d77-a1d8-c84793f008d9)
+
+
+### *Come Together*
+![CT_CHROMA](https://github.com/EilidhClemie/MCA-2023/assets/145780245/b80fbf0b-6ad7-4491-aaba-719aa230a062)
+
+Below is my analysis of the histograms:
+
