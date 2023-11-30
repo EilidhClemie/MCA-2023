@@ -50,5 +50,6 @@ Below is the visualisations of chroma histograms for each of the tracks:
 ### *Come Together*
 ![CT_CHROMA](https://github.com/EilidhClemie/MCA-2023/assets/145780245/b80fbf0b-6ad7-4491-aaba-719aa230a062)
 
-Below is my analysis of the histograms:
+From analysing the histograms for the chromagrams of each track, a few of the following observations can be made.
+* The
 
