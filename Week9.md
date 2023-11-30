@@ -50,6 +50,5 @@ Below is the visualisations of chroma histograms for each of the tracks:
 ### *Come Together*
 ![CT_CHROMA](https://github.com/EilidhClemie/MCA-2023/assets/145780245/b80fbf0b-6ad7-4491-aaba-719aa230a062)
 
-From analysing the histograms for the chromagrams of each track, a few of the following observations can be made.
-* The
+From analysing the histograms for the chromagrams of each track, a few of the following observations can be made. Chromagrams communicate the strength of pitches within the song, captuing the melodic characterisitcs of each track. Therefore, the histograms display the pitch differences between each of the tracks. For example, we see that the notes within *Come Together* predominate around 
 
