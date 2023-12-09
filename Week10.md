@@ -9,7 +9,7 @@ For the pruposes of this task I utilised the same three tracks from my work on e
 
 The tracks while all broadly incoporated under a 'rock' label, do differ stylistically, coming from different periods within The Beatles' catalogue.
 
-Below is a visualisation of similarity including the three tracks from the previous week's work:
+Below is a visualisation of similarity between the provided classical and rockk tracks as well as the three tracks from the previous week's work:
 
 <img width="303" alt="image" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/7cdff183-767f-461f-bbf2-7579167a6b41">
 
