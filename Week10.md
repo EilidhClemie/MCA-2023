@@ -13,8 +13,10 @@ Below is a visualisation of similarity between the provided classical and rockk 
 
 <img width="303" alt="image" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/7cdff183-767f-461f-bbf2-7579167a6b41">
 
-Here is the Musescore of the Transcription of *Let It Be*:
+For this next task, I utilised the edited section of my Musescore file of The Beatles' *Let It Be*. Below is an image of the Musescore visualisation of the Transcription of *Let It Be*:
 ![Transcription-IMG](https://github.com/EilidhClemie/MCA-2023/assets/145780245/33f02303-1048-4659-abcd-dd0113626bde)
 
 Here is my original for comparison:
 ![Fully Edited - Let It - W10](https://github.com/EilidhClemie/MCA-2023/assets/145780245/24efba5a-8d1b-4027-9295-c6fe1f295a29)
+
+When comparing the polyphonic transcription and the original notation, it is clear that there are a lot of weaknesses. Firstly, the detected tempo, distribution of the measures, and the time signature are incorrect. Sonically, the elements of the piece melody are recognisable, as well as some of the notes. However, visually, the piece has been transcribed to something drastically overcomplicated and musically incorrect, losing the any great clarity of the original piece.
