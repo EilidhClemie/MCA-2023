@@ -13,10 +13,16 @@
   margin: 2px 1px;
   cursor: pointer;
 }
-p { text-align: center }
-h1 { text-align: center }
+h1 {
+  padding: 60px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
 h2 { text-align: center }
-
+p { 
+  text-align: center;
+}
 body.intropage {
     background: url(../data/backgroundimage.jpg) no-repeat center center fixed;
     background-size: cover;
