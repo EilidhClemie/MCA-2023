@@ -45,7 +45,7 @@ Should be noted:
 <img width="3282" alt="Help!-Waveform" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/09b65f79-fed6-42c9-91de-01747f5940c8">
 
 **Spectrogram**
-<img width="3300" alt="Help!-Spectrogram" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/1eaee16a-b714-4ba1-9e05-405e3daae917">
+<img width="5000" alt="Come Together - Spectrogram" src="https://github.com/EilidhClemie/MCA-2023/assets/145780245/f61f4a2d-1e9e-4c13-9f83-7abfd1833073">
 
 ### Analysis - The advantages of a time-frequency based analysis over a waveform based analysis
 
