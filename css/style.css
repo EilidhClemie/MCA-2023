@@ -11,6 +11,10 @@
   margin: 4px 2px;
   cursor: pointer;
 }
+body.intropage {
+    background: url(../data/backgroundimage.jpg) no-repeat center center fixed; 
+}
+
 
 #description {
   margin: 0 0 1em 0;
