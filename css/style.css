@@ -15,6 +15,7 @@
 }
 p { text-align: center }
 h1 { text-align: center }
+h2 { text-align: center }
 
 body.intropage {
     background: url(../data/backgroundimage.jpg) no-repeat center center fixed;
