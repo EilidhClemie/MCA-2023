@@ -1,0 +1,53 @@
+<html>
+<head>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a href="https://eilidhclemie.github.io/MCA-2023/week1.html" class="button">WEEK 1</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week2.html" class="button">WEEK 2</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week3.html" class="button">WEEK 3</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week4.html" class="button">WEEK 4</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week5.html" class="button">WEEK 5</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week7.html" class="button">WEEK 7</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week8.html" class="button">WEEK 8</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week9.html" class="button">WEEK 9</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week10.html" class="button">WEEK 10</a>
+  
+
+<h1>Week 5: Standards in Curation</h1>
+  
+<p>As a group, our pieces were all relatively modern, so much of our metadata shared of relevancy. Below is a schema for the elements from our selection which were most relevant for my piece, and subsequently encoded into my own MEI file for The Beatles’ Let It Be.</p>
+
+<div class="metadata">
+<img src="./data/metadata.png" alt="Metadata Schema">
+</div>
+
+    <div id="app">Verovio is loading...</div>
+    <script type="module">
+        import 'https://www.verovio.org/javascript/app/verovio-app.js';
+        
+        const options = {
+            defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+            defaultZoom: 3, // 0-7, default is 4
+            enableResponsive: true, // default is true
+            enableDocument: true // default is true
+        }
+        
+        // A MusicXML file
+        var file = 'data/Update MEI.mei';
+        // A MEI file
+        //var file = 'https://www.verovio.org/editor/brahms.mei';
+        
+        const app = new Verovio.App(document.getElementById("app"), options);
+        fetch(file)
+            .then(function(response) {
+                return response.text();
+            })
+            .then(function(text) {
+                app.loadData(text);
+            });
+    </script>
+<p>Alternatively, it can be viewed <a href="https://eilidhclemie.github.io/MCA-2023/W5verovio.html">here.</a></p>
+
+</body>
+</html>

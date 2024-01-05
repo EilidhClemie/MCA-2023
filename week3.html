@@ -1,0 +1,59 @@
+<html>
+<head>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a href="https://eilidhclemie.github.io/MCA-2023/week1.html" class="button">WEEK 1</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week2.html" class="button">WEEK 2</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week3.html" class="button">WEEK 3</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week4.html" class="button">WEEK 4</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week5.html" class="button">WEEK 5</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week7.html" class="button">WEEK 7</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week8.html" class="button">WEEK 8</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week9.html" class="button">WEEK 9</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week10.html" class="button">WEEK 10</a>
+  
+
+<h1>Week 3: Encoding Basics for Notation</h1>
+  
+<p>In order to explore types of standards for music data, I generated both XML and MEI files from my transcribed score. The rendering of my MEI file within Verovio is available at: https://eilidhclemie.github.io/MCA-2023/verovio.html</p>
+<p>In analysing MusicXML and MEI as two types of encoding standards, I observed three elements in order to compare how the two standards operate:</p>
+<ul>
+	<li>The two standards differ in how they are structured, with MusicXML largely structuring by each measure, with the elements follwing. However, MEI structures within its measures by stave. The structures again allow for differing ways of identifying elements/attributes such as notes pitch and duration, and key and time signature.</li>
+	<li>To determine note/pitch, MusicXML organises chord, pitch, duration, voice, type of note, stem, and staff withing each note element. MEI organises notes within the chord elements and then includes abbreviated attributes for duration, octave, pitch, and stem within the note element.</li>
+	<li>MusicXmL organises notes more commonly on an individual basis, whereas MEI often does not. Notes which are connected by beams therefore include each note and its attribute within a element.</li>
+</ul>
+<p>There is a clear distinction in readability between the two standards. MusicXML allows for much easier recognition of elements of the score from a human perspective, as well as its functionality as an interchange format, whereas, MEI is largely more abbreviated, which is indicative of a more semantic, machine readable structure.</p>
+
+<div id="app">Verovio is loading...</div>
+
+ <div id="app">Verovio is loading...</div>
+    <script type="module">
+        import 'https://www.verovio.org/javascript/app/verovio-app.js';
+        
+        const options = {
+            defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+            defaultZoom: 3, // 0-7, default is 4
+            enableResponsive: true, // default is true
+            enableDocument: true // default is true
+        }
+        
+        // A MusicXML file
+        var file = 'data/week7MEI.mei';
+        // A MEI file
+        //var file = 'https://www.verovio.org/editor/brahms.mei';
+        
+        const app = new Verovio.App(document.getElementById("app"), options);
+        fetch(file)
+            .then(function(response) {
+                return response.text();
+            })
+            .then(function(text) {
+                app.loadData(text);
+            });
+    </script>
+
+<p>Alternatively, it can be viewed <a href="https://eilidhclemie.github.io/MCA-2023/verovio.html">here.</a></p>
+
+</body>
+</html>

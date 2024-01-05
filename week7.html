@@ -1,0 +1,57 @@
+<html>
+<head>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a href="https://eilidhclemie.github.io/MCA-2023/week1.html" class="button">WEEK 1</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week2.html" class="button">WEEK 2</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week3.html" class="button">WEEK 3</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week4.html" class="button">WEEK 4</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week5.html" class="button">WEEK 5</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week7.html" class="button">WEEK 7</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week8.html" class="button">WEEK 8</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week9.html" class="button">WEEK 9</a>
+<a href="https://eilidhclemie.github.io/MCA-2023/week10.html" class="button">WEEK 10</a>
+  
+
+<h1>Week 7: Challenges to Music Curation</h1>
+  
+  <p>For this week's activity, I ensured that the MEI file of my notated score was updated and correctly conformed with a standardised schema for MEI metadata with the following metadata:</p>
+<ul>
+	<li>Genre: This information was already encorporated within the metadata completed within Week 5. From research into pre-existing genre classifications of official releases of audio tracks of The Beatle's, Let It Be, I selected Rock as a genre.</li>
+	<li>Licensing: Due to the nature of this metadata applying specifically to an encoding of a notated score of this piece of music, the most appropriate classification would be the Creative Commons CC0 1.0 Universal, due to my encoding of the intellectual property of another artist holding their own copyright licensing over the original piece, under fair use. I therefore would not personally assign any legal ruling over this piece.</li>
+</ul>
+
+<p>Again, here is a rendering of my updated MEI file: </p>
+
+        </div>
+    <div id="app">Verovio is loading...</div>
+    <script type="module">
+        import 'https://www.verovio.org/javascript/app/verovio-app.js';
+        
+        const options = {
+            defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+            defaultZoom: 3, // 0-7, default is 4
+            enableResponsive: true, // default is true
+            enableDocument: true // default is true
+        }
+        
+        // A MusicXML file
+        var file = 'data/week7MEI.mei';
+        // A MEI file
+        //var file = 'https://www.verovio.org/editor/brahms.mei';
+        
+        const app = new Verovio.App(document.getElementById("app"), options);
+        fetch(file)
+            .then(function(response) {
+                return response.text();
+            })
+            .then(function(text) {
+                app.loadData(text);
+            });
+    </script>
+
+<p>Alternatively, it can be viewed <a href="https://eilidhclemie.github.io/MCA-2023/VerovioWeek7.html">here.</a></p>
+  
+</body>
+</html>
