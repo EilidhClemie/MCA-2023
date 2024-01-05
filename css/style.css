@@ -2,7 +2,7 @@
   background-color: #ffffff;
   border: none;
   color: #000000;
-  padding: 15px 32px;
+  padding: 20px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -13,19 +13,99 @@
   margin: 2px 1px;
   cursor: pointer;
 }
+.button:hover {
+    font-size: 120%;
+}
+
+body {
+  			background-color: #F5F5DC;
+		}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  Padding: 20px;
+}
+.metadata {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  Padding: 20px;
+}
+.ChromaGraph {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  Padding: 20px;
+}
+.simmatrix {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  Padding: 20px;
+}
+.score {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  Padding: 20px;
+}
 h1 {
   padding: 60px;
   text-align: center;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 80px;
+  font-size: 60px;
+  text-shadow: 2px 0 #000000, -2px 0 #000000, 0 2px #000000, 0 -2px #000000,
+               1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
 }
-h2 { text-align: center }
+.headings { 
+  text-align: left;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-decoration-line: underline; 
+  line-height: 1.5;
+}
 p { 
-  text-align: center;
+	text-align: left;
+	text-align: left;
+  	padding-left: 60px;
+  	padding-right: 60px;
+  	padding-top: 10px;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+}
+
+li {
+	text-align: left;
+  	padding-left: 60px;
+  	padding-right: 60px;
+  	padding-top: 10px;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+}
+.GUID { 
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+  	text-shadow: 2px 0 #000000, -2px 0 #000000, 0 2px #000000, 0 -2px #000000,
+               1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
 }
 body.intropage {
-    background: url(../data/backgroundimage.jpg) no-repeat center center fixed;
+    background: url(../data/backgroundimage.png) no-repeat center center fixed;
     background-size: cover;
 }
 
